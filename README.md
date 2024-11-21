@@ -1,9 +1,7 @@
-# 优秀的 Deepfake 资源指南 ![优秀资源](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# 优秀的 Deepfake 资源指南
 
 ## **关于道德使用**
-这个资源列表的目的是促进研究与开发，而不是帮助制作恶意内容。请阅读 [faceswap 开发者发布的宣言](https://github.com/deepfakes/faceswap#manifesto)，了解详细内容。
-
----
+这个资源列表的目的是促进研究与开发，而不是帮助制作恶意内容。
 
 ## **代码仓库**
 1. [Faceswap](https://github.com/deepfakes/faceswap)：基于原始 u/deepfakes 代码开发，利用深度学习技术实现图片和视频中的人脸识别与替换。
